@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+dist/
+# settings and profiles saved by the app on this PC
+glow.json
+glow_profiles.json
+*.tmp
